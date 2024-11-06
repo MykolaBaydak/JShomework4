@@ -1,0 +1,46 @@
+switch ('1'){
+  case `1`:
+    console.log(`asd1`);
+    console.log(`asd1`);
+    console.log(`asd1`);
+    console.log(`asd1`);
+    break;
+  case (`2`):
+    console.log(`asd2222`);
+    console.log(`asd2222`);
+    console.log(`asd2222`);
+    console.log(`asd2222`);
+    break;
+  case(3):
+    console.log(`asd333`);
+    console.log(`asd333`);
+    console.log(`asd333`);
+    console.log(`asd333`);
+    break;
+  case(4):
+    console.log(44444);
+    console.log(44444);
+    console.log(4444);
+    console.log(4444);
+    break;
+  case(5):
+    console.log(5555);
+    console.log(5555);
+    console.log(5555);
+    console.log(5555);
+    break;
+  case(6):
+    console.log(6666);
+    console.log(6666);
+    console.log(6666);
+    console.log(6666);
+    break;
+  case(7):
+    console.log(77777);
+    console.log(77777);
+    console.log(77777);
+    console.log(77777);
+    break;
+  default:
+    console.log(`???`)
+}
